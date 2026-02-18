@@ -10,7 +10,6 @@ import entidade.Mensagem;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated m
 		
 		Scanner scn = new Scanner(System.in);
 
@@ -90,6 +89,7 @@ public class Main {
 	}
 
 }
+
 
 
 
